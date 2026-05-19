@@ -1,68 +1,111 @@
 <h1 align="center">Hey 👋, I'm Gabriel</h1>
 
 <p align="center">
-Backend Engineer focused on building reliable APIs 🚀
+Backend Engineer focused on scalable APIs, system reliability and clean architecture 🚀
+</p>
+
+<p align="center">
+Ruby on Rails • MongoDB • Sidekiq • Docker • REST APIs
 </p>
 
 ---
 
-### 👨‍💻 About me
+# 👨‍💻 About Me
 
 ```ruby
 class Gabriel
   def initialize
-    @role = "Backend Engineer"
-    @stack = "Ruby on Rails"
-    @background = "Quality Assurance"
-    @specialty = "APIs & integrations"
-    @mindset = "Performance, reliability and clean architecture"
+    @role        = "Backend Engineer"
+    @main_stack  = "Ruby on Rails"
+    @background  = "Quality Assurance"
+    @focus       = [
+      "Scalable APIs",
+      "System Reliability",
+      "Async Processing",
+      "Backend Architecture"
+    ]
+
+    @currently_learning = [
+      "Software Architecture",
+      "Performance Optimization",
+      "Distributed Systems"
+    ]
+  end
+
+  def mindset
+    "Build systems that scale, are maintainable and production-ready."
   end
 end
 ```
 
-Backend developer with strong foundations in system reliability, coming from a QA background.
+Backend engineer with a strong foundation in software quality and reliability, transitioning from QA into backend development.
 
-Today I design and build:
+Currently working with Ruby on Rails building production-grade backend applications, focusing on:
 
-✔️ REST APIs
-✔️ Async processing with Sidekiq
-✔️ Scalable services
-✔️ External integrations
-✔️ Production-ready backend solutions
+* REST API development
+* Background jobs with Sidekiq
+* External integrations
+* Performance optimization
+* Scalable architectures
+* Clean and maintainable codebases
 
 ---
 
-### 🚀 Current Focus
+# 🚀 Current Focus
 
-* Ruby on Rails API design
-* Background jobs & async flows
+* Ruby on Rails backend engineering
+* API architecture & integrations
+* Async workflows & queues
 * Performance & scalability
-* Clean architecture
-* System integrations
+* Software architecture
+* Production-ready systems
 
 ---
 
-### 🛠 Tech Stack
+# 🛠 Tech Stack
 
-Ruby on Rails • MongoDB • Sidekiq • Docker • REST APIs
+### Backend
+
+* Ruby
+* Ruby on Rails
+* REST APIs
+* Sidekiq
+* MongoDB
+* Redis
+
+### DevOps & Tools
+
+* Docker
+* Git & GitHub
+* Postman
+* Linux
+* CI/CD workflows
+
+### Background
+
+* Quality Assurance
+* API Testing
+* Automation mindset
+* Reliability engineering
 
 ---
 
-### 📌 Projects
+# 📌 Featured Projects
 
-* Transactions API
-* SMS Status API
-* Short URL API
-* FocusFlow
+### 🔹 Transactions API
+
+API responsible for transaction processing and statistics generation.
+
+### 🔹 SMS Status API
+
+Service for SMS status tracking and asynchronous processing.
+
+### 🔹 Short URL API
+
+URL shortening service with scalable backend architecture.
+
+### 🔹 FocusFlow
+
+Ruby on Rails productivity platform focused on organization and workflow management.
 
 ---
-
-### 🎯 Mindset
-
-> I build systems that are meant to scale — not just to work.
-
----
-
-### 📫 Let's connect
-
-Always open to backend conversations 🚀

@@ -36,8 +36,6 @@ end
 - **[Transactions API](#)** — Transaction processing and statistics generation.
 - **[SMS Status API](#)** — SMS status tracking with async processing.
 - **[Short URL API](#)** — URL shortening built to scale.
-- **[FocusFlow](#)** — Rails productivity platform for workflow management.
-
 ---
 
 <p align="center">

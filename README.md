@@ -1,111 +1,47 @@
-<h1 align="center">Hey 👋, I'm Gabriel</h1>
+<h1 align="center">Gabriel · Backend Engineer</h1>
 
 <p align="center">
-Backend Engineer focused on scalable APIs, system reliability and clean architecture 🚀
+  I build scalable, reliable APIs with Ruby on Rails.
 </p>
 
 <p align="center">
-Ruby on Rails • MongoDB • Sidekiq • Docker • REST APIs
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sidekiq-B1003E?style=flat&logo=sidekiq&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+### About
+
+Backend engineer with a QA background, focused on production-grade systems —
+REST APIs, async processing, and clean, maintainable architecture.
 
 ```ruby
 class Gabriel
-  def initialize
-    @role        = "Backend Engineer"
-    @main_stack  = "Ruby on Rails"
-    @background  = "Quality Assurance"
-    @focus       = [
-      "Scalable APIs",
-      "System Reliability",
-      "Async Processing",
-      "Backend Architecture"
-    ]
-
-    @currently_learning = [
-      "Software Architecture",
-      "Performance Optimization",
-      "Distributed Systems"
-    ]
+  def focus
+    ["Scalable APIs", "System Reliability", "Async Processing"]
   end
 
   def mindset
-    "Build systems that scale, are maintainable and production-ready."
+    "Build systems that scale and are ready for production."
   end
 end
 ```
 
-Backend engineer with a strong foundation in software quality and reliability, transitioning from QA into backend development.
+### Featured Projects
 
-Currently working with Ruby on Rails building production-grade backend applications, focusing on:
-
-* REST API development
-* Background jobs with Sidekiq
-* External integrations
-* Performance optimization
-* Scalable architectures
-* Clean and maintainable codebases
+- **[Transactions API](#)** — Transaction processing and statistics generation.
+- **[SMS Status API](#)** — SMS status tracking with async processing.
+- **[Short URL API](#)** — URL shortening built to scale.
+- **[FocusFlow](#)** — Rails productivity platform for workflow management.
 
 ---
 
-# 🚀 Current Focus
-
-* Ruby on Rails backend engineering
-* API architecture & integrations
-* Async workflows & queues
-* Performance & scalability
-* Software architecture
-* Production-ready systems
-
----
-
-# 🛠 Tech Stack
-
-### Backend
-
-* Ruby
-* Ruby on Rails
-* REST APIs
-* Sidekiq
-* MongoDB
-* Redis
-
-### DevOps & Tools
-
-* Docker
-* Git & GitHub
-* Postman
-* Linux
-* CI/CD workflows
-
-### Background
-
-* Quality Assurance
-* API Testing
-* Automation mindset
-* Reliability engineering
-
----
-
-# 📌 Featured Projects
-
-### 🔹 Transactions API
-
-API responsible for transaction processing and statistics generation.
-
-### 🔹 SMS Status API
-
-Service for SMS status tracking and asynchronous processing.
-
-### 🔹 Short URL API
-
-URL shortening service with scalable backend architecture.
-
-### 🔹 FocusFlow
-
-Ruby on Rails productivity platform focused on organization and workflow management.
-
----
+<p align="center">
+  <a href="https://github.com/Gabriel-AparecidoM">GitHub</a> ·
+  <a href="#">LinkedIn</a> ·
+  <a href="mailto:seu@email.com">Email</a>
+</p>

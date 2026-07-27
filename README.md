@@ -43,5 +43,5 @@ end
 <p align="center">
   <a href="https://github.com/Gabriel-AparecidoM">GitHub</a> ·
   <a href="#">[LinkedIn](https://www.linkedin.com/in/gabriel-aparecido-917926329/)</a> ·
-  <a href="mailto:seu@email.com">gabrielbrito.tec@outlook.com</a>
+  <a href="mailto:gabrielbrito.tec@outlook.com"></a>
 </p>
